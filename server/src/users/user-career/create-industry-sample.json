@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Technology",
+        "priority": 1
+    },
+    {
+        "name": "Healthcare",
+        "priority": 2
+    },
+    {
+        "name": "Finance",
+        "priority": 3
+    },
+    {
+        "name": "Education",
+        "priority": 4
+    },
+    {
+        "name": "Entertainment",
+        "priority": 5
+    },
+    {
+        "name": "Manufacturing",
+        "priority": 6
+    },
+    {
+        "name": "Retail",
+        "priority": 7
+    },
+    {
+        "name": "Agriculture",
+        "priority": 8
+    },
+    {
+        "name": "Transportation",
+        "priority": 9
+    },
+    {
+        "name": "Real Estate",
+        "priority": 10
+    },
+    {
+        "name": "Hospitality",
+        "priority": 11
+    },
+    {
+        "name": "Construction",
+        "priority": 12
+    },
+    {
+        "name": "Energy",
+        "priority": 13
+    },
+    {
+        "name": "Legal",
+        "priority": 14
+    },
+    {
+        "name": "Marketing",
+        "priority": 15
+    },
+    {
+        "name": "Media",
+        "priority": 16
+    },
+    {
+        "name": "Automotive",
+        "priority": 17
+    },
+    {
+        "name": "Aerospace",
+        "priority": 18
+    },
+    {
+        "name": "Textile",
+        "priority": 19
+    },
+    {
+        "name": "Pharmaceutical",
+        "priority": 20
+    }
+]

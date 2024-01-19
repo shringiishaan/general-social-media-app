@@ -1,0 +1,180 @@
+{
+    "categories": [
+        {
+            "name": "Sports",
+            "priority": 1
+        },
+        {
+            "name": "Arts",
+            "priority": 2
+        },
+        {
+            "name": "Technology",
+            "priority": 3
+        },
+        {
+            "name": "Music",
+            "priority": 4
+        },
+        {
+            "name": "Nature",
+            "priority": 5
+        },
+        {
+            "name": "Travel",
+            "priority": 6
+        }
+    ],
+    "interests": [
+        {
+            "name": "Football",
+            "interestTagCategoryId": 1,
+            "priority": 1
+        },
+        {
+            "name": "Basketball",
+            "interestTagCategoryId": 1,
+            "priority": 2
+        },
+        {
+            "name": "Tennis",
+            "interestTagCategoryId": 1,
+            "priority": 3
+        },
+        {
+            "name": "Swimming",
+            "interestTagCategoryId": 1,
+            "priority": 4
+        },
+        {
+            "name": "Cycling",
+            "interestTagCategoryId": 1,
+            "priority": 5
+        },
+        {
+            "name": "Painting",
+            "interestTagCategoryId": 2,
+            "priority": 1
+        },
+        {
+            "name": "Photography",
+            "interestTagCategoryId": 2,
+            "priority": 2
+        },
+        {
+            "name": "Sculpture",
+            "interestTagCategoryId": 2,
+            "priority": 3
+        },
+        {
+            "name": "Theater",
+            "interestTagCategoryId": 2,
+            "priority": 4
+        },
+        {
+            "name": "Dance",
+            "interestTagCategoryId": 2,
+            "priority": 5
+        },
+        {
+            "name": "Programming",
+            "interestTagCategoryId": 3,
+            "priority": 1
+        },
+        {
+            "name": "Artificial Intelligence",
+            "interestTagCategoryId": 3,
+            "priority": 2
+        },
+        {
+            "name": "Gadgets",
+            "interestTagCategoryId": 3,
+            "priority": 3
+        },
+        {
+            "name": "Web Development",
+            "interestTagCategoryId": 3,
+            "priority": 4
+        },
+        {
+            "name": "Virtual Reality",
+            "interestTagCategoryId": 3,
+            "priority": 5
+        },
+        {
+            "name": "Rock",
+            "interestTagCategoryId": 4,
+            "priority": 1
+        },
+        {
+            "name": "Classical",
+            "interestTagCategoryId": 4,
+            "priority": 2
+        },
+        {
+            "name": "Jazz",
+            "interestTagCategoryId": 4,
+            "priority": 3
+        },
+        {
+            "name": "Pop",
+            "interestTagCategoryId": 4,
+            "priority": 4
+        },
+        {
+            "name": "Country",
+            "interestTagCategoryId": 4,
+            "priority": 5
+        },
+        {
+            "name": "Hiking",
+            "interestTagCategoryId": 5,
+            "priority": 1
+        },
+        {
+            "name": "Bird Watching",
+            "interestTagCategoryId": 5,
+            "priority": 2
+        },
+        {
+            "name": "Stargazing",
+            "interestTagCategoryId": 5,
+            "priority": 3
+        },
+        {
+            "name": "Gardening",
+            "interestTagCategoryId": 5,
+            "priority": 4
+        },
+        {
+            "name": "Camping",
+            "interestTagCategoryId": 5,
+            "priority": 5
+        },
+        {
+            "name": "Adventure Travel",
+            "interestTagCategoryId": 6,
+            "priority": 1
+        },
+        {
+            "name": "Historical Sites",
+            "interestTagCategoryId": 6,
+            "priority": 2
+        },
+        {
+            "name": "Beach Vacations",
+            "interestTagCategoryId": 6,
+            "priority": 3
+        },
+        {
+            "name": "City Tours",
+            "interestTagCategoryId": 6,
+            "priority": 4
+        },
+        {
+            "name": "Cruises",
+            "interestTagCategoryId": 6,
+            "priority": 5
+        }
+    ]
+}

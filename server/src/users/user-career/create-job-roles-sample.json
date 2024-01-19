@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Software Engineer",
+        "priority": 1
+    },
+    {
+        "name": "Nurse",
+        "priority": 2
+    },
+    {
+        "name": "Financial Analyst",
+        "priority": 3
+    },
+    {
+        "name": "Teacher",
+        "priority": 4
+    },
+    {
+        "name": "Film Director",
+        "priority": 5
+    },
+    {
+        "name": "Factory Worker",
+        "priority": 6
+    },
+    {
+        "name": "Store Manager",
+        "priority": 7
+    },
+    {
+        "name": "Farmer",
+        "priority": 8
+    },
+    {
+        "name": "Truck Driver",
+        "priority": 9
+    },
+    {
+        "name": "Real Estate Agent",
+        "priority": 10
+    },
+    {
+        "name": "Hotel Manager",
+        "priority": 11
+    },
+    {
+        "name": "Construction Worker",
+        "priority": 12
+    },
+    {
+        "name": "Energy Engineer",
+        "priority": 13
+    },
+    {
+        "name": "Lawyer",
+        "priority": 14
+    },
+    {
+        "name": "Marketing Manager",
+        "priority": 15
+    },
+    {
+        "name": "Journalist",
+        "priority": 16
+    },
+    {
+        "name": "Mechanic",
+        "priority": 17
+    },
+    {
+        "name": "Pilot",
+        "priority": 18
+    },
+    {
+        "name": "Fashion Designer",
+        "priority": 19
+    },
+    {
+        "name": "Pharmacist",
+        "priority": 20
+    },
+    {
+        "name": "Data Scientist",
+        "priority": 21
+    },
+    {
+        "name": "Physician",
+        "priority": 22
+    },
+    {
+        "name": "Banker",
+        "priority": 23
+    },
+    {
+        "name": "Principal",
+        "priority": 24
+    },
+    {
+        "name": "Musician",
+        "priority": 25
+    },
+    {
+        "name": "Quality Controller",
+        "priority": 26
+    },
+    {
+        "name": "Cashier",
+        "priority": 27
+    },
+    {
+        "name": "Agricultural Scientist",
+        "priority": 28
+    },
+    {
+        "name": "Railway Operator",
+        "priority": 29
+    },
+    {
+        "name": "Architect",
+        "priority": 30
+    },
+    {
+        "name": "Chef",
+        "priority": 31
+    },
+    {
+        "name": "Electrician",
+        "priority": 32
+    },
+    {
+        "name": "Petroleum Engineer",
+        "priority": 33
+    },
+    {
+        "name": "Paralegal",
+        "priority": 34
+    },
+    {
+        "name": "SEO Specialist",
+        "priority": 35
+    },
+    {
+        "name": "Reporter",
+        "priority": 36
+    },
+    {
+        "name": "Car Salesman",
+        "priority": 37
+    },
+    {
+        "name": "Flight Attendant",
+        "priority": 38
+    },
+    {
+        "name": "Textile Engineer",
+        "priority": 39
+    },
+    {
+        "name": "Clinical Researcher",
+        "priority": 40
+    },
+    {
+        "name": "Database Administrator",
+        "priority": 41
+    },
+    {
+        "name": "Dentist",
+        "priority": 42
+    },
+    {
+        "name": "Accountant",
+        "priority": 43
+    },
+    {
+        "name": "Librarian",
+        "priority": 44
+    },
+    {
+        "name": "Actor",
+        "priority": 45
+    },
+    {
+        "name": "Production Supervisor",
+        "priority": 46
+    },
+    {
+        "name": "Sales Associate",
+        "priority": 47
+    },
+    {
+        "name": "Veterinarian",
+        "priority": 48
+    },
+    {
+        "name": "Ship Captain",
+        "priority": 49
+    },
+    {
+        "name": "Property Developer",
+        "priority": 50
+    },
+    {
+        "name": "Event Planner",
+        "priority": 51
+    },
+    {
+        "name": "Mason",
+        "priority": 52
+    },
+    {
+        "name": "Wind Turbine Technician",
+        "priority": 53
+    },
+    {
+        "name": "Legal Secretary",
+        "priority": 54
+    },
+    {
+        "name": "Brand Strategist",
+        "priority": 55
+    },
+    {
+        "name": "Cameraman",
+        "priority": 56
+    },
+    {
+        "name": "Auto Designer",
+        "priority": 57
+    },
+    {
+        "name": "Aircraft Mechanic",
+        "priority": 58
+    },
+    {
+        "name": "Spinners and Weavers",
+        "priority": 59
+    },
+    {
+        "name": "Biochemist",
+        "priority": 60
+    },
+    {
+        "name": "UI/UX Designer",
+        "priority": 61
+    },
+    {
+        "name": "Radiologist",
+        "priority": 62
+    },
+    {
+        "name": "Loan Officer",
+        "priority": 63
+    },
+    {
+        "name": "Physical Education Teacher",
+        "priority": 64
+    },
+    {
+        "name": "Screenwriter",
+        "priority": 65
+    },
+    {
+        "name": "Machinist",
+        "priority": 66
+    },
+    {
+        "name": "Visual Merchandiser",
+        "priority": 67
+    },
+    {
+        "name": "Horticulturist",
+        "priority": 68
+    },
+    {
+        "name": "Bus Driver",
+        "priority": 69
+    },
+    {
+        "name": "Leasing Consultant",
+        "priority": 70
+    },
+    {
+        "name": "Bartender",
+        "priority": 71
+    },
+    {
+        "name": "Roofing Contractor",
+        "priority": 72
+    },
+    {
+        "name": "Solar Installer",
+        "priority": 73
+    },
+    {
+        "name": "Litigation Support",
+        "priority": 74
+    },
+    {
+        "name": "Public Relations Specialist",
+        "priority": 75
+    },
+    {
+        "name": "Radio Host",
+        "priority": 76
+    },
+    {
+        "name": "Test Driver",
+        "priority": 77
+    },
+    {
+        "name": "Air Traffic Controller",
+        "priority": 78
+    },
+    {
+        "name": "Garment Technologist",
+        "priority": 79
+    },
+    {
+        "name": "Microbiologist",
+        "priority": 80
+    }
+]
