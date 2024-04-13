@@ -8,6 +8,7 @@ import * as SplashScreen from "expo-splash-screen"
 import { useCallback } from "react"
 import { AppRouter } from "./routes/RootRouter"
 import { AppProvider } from "./services/context/AppContext"
+import { API } from "./services/api.service"
 
 SplashScreen.preventAutoHideAsync()
 
@@ -34,6 +35,8 @@ export default function App() {
     if (!isLoadingComplete) {
         return null
     }
+
+    console.log(`Using Server ${API("")}`);
 
     return (
         <SafeAreaProvider onLayout={onLayoutRootView}>
